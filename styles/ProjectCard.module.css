@@ -1,0 +1,43 @@
+.card {
+    padding: 1rem;
+    overflow: hidden;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 1rem;
+}
+
+/* .imgContainer{
+  width: 100%;
+} */
+
+.imgContainer img{
+    padding: 0rem ;
+    border-radius: 0.5rem;
+    width: 100%;
+
+    object-fit: cover;
+}
+
+.project_type{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.project_type_center{
+    display: flex;
+    align-items: center;
+}
+
+.project_type_center img{
+    width: 2rem;
+    height: 100%;
+}
+
+.project_type p {
+    color: #d3d3d3;
+    margin-left: 5px;
+}
+
+.date{
+    
+}

@@ -1,0 +1,25 @@
+{
+  "name": "tom_profile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "graphcms-js": "^1.1.0",
+    "graphql": "^16.5.0",
+    "graphql-request": "^4.3.0",
+    "micro": "^9.3.4",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6",
+    "react-error-overlay": "^6.0.9"
+  }
+}
